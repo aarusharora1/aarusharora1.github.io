@@ -8,11 +8,18 @@
     <language>en-us</language>
     <atom:link href="https://aarusharora.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>About</title>
+      <link>https://aarusharora.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://aarusharora.com/about/</guid>
+      <description>I am a student of Computer Science at the University of Texas at Austin. I have experience in Software Engineering at an enterprise scale and am excited to learn more. I am also interested in fields outside of Software Engineering, including Cybersecurity, Systems Programming, Algorithms, and more.&#xA;Outside of programming, I enjoy spending time with friends and family as well as playing with our dog.</description>
+    </item>
+    <item>
       <title>Resume | Aarush Arora</title>
       <link>https://aarusharora.com/resume/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://aarusharora.com/resume/</guid>
-      <description>Education The University of Texas at Austin - BS in Computer Science December 2025 Coursework: Computer Architecture, Computer Systems (OS), Machine Learning, Algorithms, Data Structures, Linear Algebra, Object Oriented Programming&#xA;Minor in Business Administration - Accounting, Marketing, Management, Finance Experiences CNA Financial - Software Engineer Intern June -- August 2024 Worked on things.&#xA;H-E-B Inc - Software Engineer Intern May -- July 2023 Worked on things.&#xA;DePaul University - Research Intern May -- August 2021 Worked on things.</description>
+      <description>Education The University of Texas at Austin - BS in Computer Science 2025 Coursework: Computer Architecture, Computer Systems (OS), Machine Learning, Algorithms, Data Structures, Linear Algebra, Object Oriented Programming&#xA;Minor in Business Administration - Accounting, Marketing, Management, Finance Experiences CNA Financial - Software Engineer Intern June -- August 2024 Worked on things.&#xA;H-E-B Inc - Software Engineer Intern May -- July 2023 Worked on things.&#xA;DePaul University - Research Intern May -- August 2021 Worked on things.</description>
     </item>
   </channel>
 </rss>
