@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Aarush Arora</title>
-    <link>https://example.org/</link>
+    <link>https://aarusharora.com/</link>
     <description>Recent content on Aarush Arora</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://aarusharora.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Resume | Aarush Arora</title>
-      <link>https://example.org/resume/</link>
+      <link>https://aarusharora.com/resume/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/resume/</guid>
+      <guid>https://aarusharora.com/resume/</guid>
       <description>Education The University of Texas at Austin - BS in Computer Science December 2025 Coursework: Computer Architecture, Computer Systems (OS), Machine Learning, Algorithms, Data Structures, Linear Algebra, Object Oriented Programming&#xA;Minor in Business Administration - Accounting, Marketing, Management, Finance Experiences CNA Financial - Software Engineer Intern June -- August 2024 Worked on things.&#xA;H-E-B Inc - Software Engineer Intern May -- July 2023 Worked on things.&#xA;DePaul University - Research Intern May -- August 2021 Worked on things.</description>
     </item>
   </channel>
